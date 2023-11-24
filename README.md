@@ -16,7 +16,7 @@
 <a href="https://twitter.com/fr4nz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fr4nz2k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisaltesing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisaltesing" height="30" width="40" /></a>
 <a href="https://fb.com/francisaltesing72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francisaltesing72" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fr4nz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr4nz2k" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Fr4nz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr4nz2k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
