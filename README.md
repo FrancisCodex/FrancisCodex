@@ -3,7 +3,7 @@
 ![headerpage](https://github.com/FrancisCodex/FrancisCodex/assets/79086077/b18247dc-df5e-41dd-a32b-56b0c950aaed)
 
 
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscodex&label=Profile%20views&color=0e75b6&style=flat" alt="franciscodex" /> </p>
 
