@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [franciscodex.github.io](franciscodex.github.io)
 
-- 📫 How to reach me **franciadrian.altesing@gmail.com**
+- 📫 How to reach me **francisadrian.altesing@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
