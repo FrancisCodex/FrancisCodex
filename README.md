@@ -1,58 +1,47 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Francis Adrian Altesing — Full stack developer, building calm software for messy problems." src="./assets/header-dark.svg" width="100%">
+</picture>
 
+<br>
 
-![headerpage](https://github.com/FrancisCodex/FrancisCodex/assets/79086077/b18247dc-df5e-41dd-a32b-56b0c950aaed)
+I'm a full stack developer from the Philippines. Most recently I helped build web apps and backend services at **EBOS Cloud Accountants**, turning complicated workflows into products people actually enjoy using.
 
+Most days I move between Laravel, React, Vue, and FastAPI, with PostgreSQL underneath and a growing pile of AI tooling on the side.
 
-<h3 align="center">A passionate developer from Philippines</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscodex&label=Profile%20views&color=0e75b6&style=flat" alt="franciscodex" /> </p>
+### Selected work
 
-- 🔭 I’m currently working on [BoardRoom](https://github.com/FrancisCodex/BR_Client)
+| | |
+| :-- | :-- |
+| **[NestSeeker](https://github.com/FrancisCodex/NestSeeker)** &nbsp;·&nbsp; [live ↗](https://nestseeker.vercel.app) | A decision-support platform helping renters compare properties with more confidence. |
+| **[OnTheJob Tracker](https://github.com/FrancisCodex/OJT-Tracker)** &nbsp;·&nbsp; [live ↗](https://onthejob-tracker.vercel.app) | One workspace for students, coordinators, and training agencies to manage OJT progress. |
+| **[Cosmos Coffee](https://github.com/FrancisCodex/Cosmos_ServerSide)** | A coffee ordering concept built around secure transactions and a calm storefront. |
 
-- 🌱 I’m currently learning **Django**
+<br>
 
-- 👨‍💻 All of my projects are available at [franciscodex.github.io](franciscodex.github.io)
+### Stack
 
-- 📫 How to reach me **francisadrian.altesing@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,php,python,laravel,react,nextjs,vue,angular,nodejs,fastapi,postgres,supabase,docker&theme=dark&perline=13">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,php,python,laravel,react,nextjs,vue,angular,nodejs,fastapi,postgres,supabase,docker&theme=light&perline=13">
+  <img alt="TypeScript, PHP, Python, Laravel, React, Next.js, Vue, Angular, Node.js, FastAPI, PostgreSQL, Supabase, Docker" src="https://skillicons.dev/icons?i=ts,php,python,laravel,react,nextjs,vue,angular,nodejs,fastapi,postgres,supabase,docker&theme=dark&perline=13" height="36">
+</picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fr4nz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fr4nz2k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/francisaltesing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisaltesing" height="30" width="40" /></a>
-<a href="https://fb.com/francisaltesing72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francisaltesing72" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Fr4nz2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr4nz2k" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br>
 
+### On repeat
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscodex&show_icons=true&locale=en&layout=compact" alt="franciscodex" /></p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8md8ww63sorycux0qs1qlw3df&redirect=true">
+  <img alt="Now playing on Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8md8ww63sorycux0qs1qlw3df&cover_image=true&theme=default&show_offline=false&background_color=0d0d0c&interchange=false&bar_color=22c55e&bar_color_cover=false" width="420">
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscodex&show_icons=true&locale=en" alt="franciscodex" /></p>
+<br><br>
 
-<div align="center">
-  <h3> Songs I listen while coding 🧑‍💻 </h3>
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8md8ww63sorycux0qs1qlw3df&redirect=true">
-    <img  src="https://spotify-github-profile.kittinanx.com/api/view?uid=8md8ww63sorycux0qs1qlw3df&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</p>
-</div>
-
-<!--
-**FrancisCodex/FrancisCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-made using https://rahuldkjain.github.io/gh-profile-readme-generator/ 
-Thanks
--->
+<sub>
+  <a href="https://franciscodex.github.io">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/francisaltesing/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:francisadrian.altesing@gmail.com">francisadrian.altesing@gmail.com</a>
+</sub>
