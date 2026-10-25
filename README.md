@@ -40,3 +40,7 @@ A coffee ordering concept built around secure transactions and a calm storefront
   <a href="https://www.linkedin.com/in/francisaltesing/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:francisadrian.altesing@gmail.com">francisadrian.altesing@gmail.com</a>
 </sub>
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FrancisCodex&theme=soft-green&border_radius=0&card_width=1000)](https://git.io/streak-stats)
